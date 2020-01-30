@@ -1,5 +1,5 @@
 {
-  "name": "@feathersjs/hooks",
+  "name": "@openagenda/hooks",
   "version": "0.3.1",
   "description": "Async middleware for JavaScript and TypeScript",
   "homepage": "https://feathersjs.com",
